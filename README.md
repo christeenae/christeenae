@@ -1,38 +1,45 @@
-<!-- Title -->
-# Hello, I'm Christeena  👋
+
 
 <!-- Introduction -->
-I'm a budding developer from India. I'm constantly exploring new technologies and trying to improve and learn through building interesting projects. Welcome to my GitHub profile!
+<h1 align="center">Hi there, I'm Christeena 👋</h1>
+
+<p align="center">
+  A budding developer from India with a love for learning new technologies and trying to work on them.
+</p>
 
 <!-- Social Media Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christeena-blue)](https://www.linkedin.com/in/christeena-edison/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://christeenae.github.io/C-Personal-Portfolio/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/christeena-edison/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://christeenae.github.io/C-Personal-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=for-the-badge" alt="Portfolio">
+  </a>
+</p>
 
-<!-- Technologies and Tools -->
-## 🔧 Technologies & Tools
+<!-- Skills -->
+<h2 align="center">Skills</h2>
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=333333)
-![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=61DAFB&color=333333)
-![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=E34F26&color=333333)
-![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=1572B6&color=333333)
-![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=F05032&color=333333)
-![VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=007ACC&color=333333)
-
-<!-- GitHub Stats -->
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=christeenae&show_icons=true&theme=dark)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" alt="VSCode">
+</p>
 
 <!-- Contact -->
 ## 📫 Contact Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/christeena-edison/). You can also reach out to me via email at [christeenaedisontj@gmail.com](mailto:your.email@example.com). 
-
-Check out my [Portfolio](https://christeenae.github.io/C-Personal-Portfolio/) for more information.
-
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/christeena-edison/). You can also reach out to me via email at christeenaedisontj@gmail.com. 
 
 <!-- Footer -->
 ## 🙌 Thank You
 
 Thanks for visiting my profile! If you found something interesting, don't forget to star the repositories. 😊
+
+
+
+
