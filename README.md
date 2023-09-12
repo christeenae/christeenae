@@ -5,8 +5,8 @@
 I'm a budding developer from India. I'm constantly exploring new technologies and trying to improve and learn through building interesting projects. Welcome to my GitHub profile!
 
 <!-- Social Media Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/christeena-edison/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-green)](https://christeenae.github.io/C-Personal-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christeena-blue)](https://www.linkedin.com/in/christeena-edison/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://christeenae.github.io/C-Personal-Portfolio/)
 
 <!-- Technologies and Tools -->
 ## 🔧 Technologies & Tools
@@ -21,7 +21,7 @@ I'm a budding developer from India. I'm constantly exploring new technologies an
 <!-- GitHub Stats -->
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=christeenae&show_icons=true&theme=dark)
 
 
 <!-- Contact -->
