@@ -4,7 +4,7 @@
 <h1 align="center">Hi there, I'm Christeena 👋</h1>
 
 <p align="center">
-  A budding developer from India with a love for learning new technologies and trying to work on them.
+  A developer from India with a passion for learning new technologies and trying to work on them.
 </p>
 
 <!-- Social Media Badges -->
