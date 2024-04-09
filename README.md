@@ -13,7 +13,7 @@
 <!-- Contact -->
 ## 📫 Contact Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/christeena-edison/). You can also reach out to me via email at christeenaedisontj@gmail.com. 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/christeena-edison/). You can also reach out to me via https://christeenae.github.io/Contact-Form/. 
 
 <!-- Footer -->
 ## 🙌 Thank You
